@@ -11,6 +11,7 @@
   },
   "rules": {
     "comma-dangle": "off",
-    "implicit-arrow-linebreak": "off"
+    "implicit-arrow-linebreak": "off",
+    "quotes": ["error", "single", { "allowTemplateLiterals": true }]
   }
 }
